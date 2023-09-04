@@ -1,0 +1,11 @@
+Moneda Local: pesos colombianos - COP
+
+Posibles conversiones a:
+
+- Dolar
+- Euro
+- Libra esterlina
+- Yen Japonés
+- Won Sur Coreano
+
+Agregar conversiones entre unidades físicas
